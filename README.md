@@ -1,4 +1,4 @@
-# Servidor HTTP/HTTPS Linux
+# Servidor HTTP/HTTPS com Docker
 
 Hoje vamos montar um servidor HTTP/HTTPS em Linux, para esse servidor vamos utilizar o famoso NGINX que é um servidor bem completo e totalmente gratuito.
 Vamos utilizar um sistema de container para armazenar e isolar os processos do nosso servidor e dos sistemas necessários. Vou utilizar o DOCKER para gerenciamento dos containers e imagens utilizada neste treinamento.
