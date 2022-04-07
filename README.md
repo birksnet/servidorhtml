@@ -42,7 +42,7 @@ Vamos começar criando todos os arquivos e pastas que contêm nosso projeto, aqu
 
 
 ## Arquivos:
-Agora vamos criar os arquivos, temos primeiro uma imagem à nossa logo e após a imagem começaremos pelo arquivo index.html que é nossa página principal, não vou estar comentando nada do código desse arquivo pois é apenas um HTML bem simples.
+Agora vamos criar os arquivos, temos primeiro uma imagem à nossa logo e após a imagem começaremos pelo arquivo index.html que é nossa página principal, não vou estar comentando nada dos códigos desses arquivos pois são bem simples.
 
   ### servidorngix/app/public/static/logo.png
 
@@ -88,7 +88,7 @@ Agora vem nosso arquivo de configuração do nginx, esse arquivo pode ser bem ma
 
 
 
-Agora vamos criar nosso último arquivo ele será responsável pela configuração do nosso container esse arquivo pode contar muito mais configurações conforme a necessidade.
+Agora vamos criar nosso último arquivo ele será responsável pela configuração do nosso container esse arquivo pode conter muito mais configurações conforme a necessidade.
 	
 ## servidorngix/docker-compose.yml
 
